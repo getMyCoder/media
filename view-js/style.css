@@ -7,7 +7,7 @@ p,span{margin: 0;padding: 0;}
 h1,h2,h3,h4,h5,h6{padding: 0;margin: 0;}
 .container{width: 100%;}
 .box{overflow: hidden;width: 100%;}
-.container{max-width: 1200px;margin: 0 auto;background: red;}
+.container{max-width: 1200px;margin: 0 auto;background: #ccc;}
 .cell-A-1,.cell-A-2,.cell-A-3,.cell-A-4,.cell-A-5,.cell-A-6,.cell-A-7,.cell-A-8,.cell-A-9,.cell-A-10,.cell-A-11,.cell-A-12{float: left;}
 .cell-B-1,.cell-B-2,.cell-B-3,.cell-B-4,.cell-B-5,.cell-B-6,.cell-B-7,.cell-B-8,.cell-B-9,.cell-B-10,.cell-B-11,.cell-B-12{float: left;}
 .cell-C-1,.cell-C-2,.cell-C-3,.cell-C-4,.cell-C-5,.cell-C-6,.cell-C-7,.cell-C-8,.cell-C-9,.cell-C-10,.cell-C-11,.cell-C-12{float: left;}
