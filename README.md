@@ -1,6 +1,9 @@
 # media
 栅格系统
+
 响应式布局
+
+
 view-css是通过media响应式布局
 view-js是通过dom对可视区域的获取进行响应式布局
 cell-A-num cell-A-f-num  PC端
